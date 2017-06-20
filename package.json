@@ -1,0 +1,17 @@
+{
+  "name": "docker_node_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "^4.10.7",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0"
+  }
+}
